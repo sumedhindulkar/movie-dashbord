@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/movie-dashboard/static/css/main.997c2aeb.chunk.css",
+    "main.js": "/movie-dashboard/static/js/main.3260913e.chunk.js",
+    "main.js.map": "/movie-dashboard/static/js/main.3260913e.chunk.js.map",
+    "runtime-main.js": "/movie-dashboard/static/js/runtime-main.a725917a.js",
+    "runtime-main.js.map": "/movie-dashboard/static/js/runtime-main.a725917a.js.map",
+    "static/js/2.84ada7eb.chunk.js": "/movie-dashboard/static/js/2.84ada7eb.chunk.js",
+    "static/js/2.84ada7eb.chunk.js.map": "/movie-dashboard/static/js/2.84ada7eb.chunk.js.map",
+    "index.html": "/movie-dashboard/index.html",
+    "static/css/main.997c2aeb.chunk.css.map": "/movie-dashboard/static/css/main.997c2aeb.chunk.css.map",
+    "static/js/2.84ada7eb.chunk.js.LICENSE.txt": "/movie-dashboard/static/js/2.84ada7eb.chunk.js.LICENSE.txt",
+    "static/media/1.55dbfbaa.jpg": "/movie-dashboard/static/media/1.55dbfbaa.jpg",
+    "static/media/App.css": "/movie-dashboard/static/media/2.8564f0af.jpg",
+    "static/media/3.dd9de771.jpg": "/movie-dashboard/static/media/3.dd9de771.jpg",
+    "static/media/dwayne.89ea34b9.jpg": "/movie-dashboard/static/media/dwayne.89ea34b9.jpg",
+    "static/media/main.4846eba6.jpg": "/movie-dashboard/static/media/main.4846eba6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a725917a.js",
+    "static/js/2.84ada7eb.chunk.js",
+    "static/css/main.997c2aeb.chunk.css",
+    "static/js/main.3260913e.chunk.js"
+  ]
+}
